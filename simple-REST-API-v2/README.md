@@ -1,4 +1,4 @@
-# Library v2 REST API Native Node.js 
+# Library API v2 
 
 > REST API using Node.js 
 
