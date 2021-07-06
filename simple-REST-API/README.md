@@ -1,4 +1,4 @@
-# Library API v2 
+# Library API
 
 > REST API using Node.js 
 
